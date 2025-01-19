@@ -36,18 +36,19 @@ Follow these steps to set up the project on your local system:
 
 1. **Clone the Repository**:
    git clone https://github.com/snehaballari/Talking-Fingers.git
-   cd talking-fingers
+   and move to the project directory
+   - cd Talking-Fingers
 
 2. Set Up a Virtual Environment: Create a virtual environment to isolate project dependencies:
    python -m venv venv
 
 3. Activate the virtual environment:
 
-    On Windows:
-    venv\Scripts\activate
+   On Windows:
+   venv\Scripts\activate
 
-    On macOS/Linux:
-    source venv/bin/activate
+   On macOS/Linux:
+   source venv/bin/activate
 
 4. Install Project Dependencies: Install all required Python libraries:
    pip install -r requirements.txt
