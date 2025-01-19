@@ -1,10 +1,6 @@
 # Talking-Fingers
 
-# Multilingual Speech to Indian Sign Language Translator
-
-Talking Fingers is a web app that translates spoken or typed text into Indian Sign Language (ISL) animations. Using the Web Speech API, googletrans, and NLTK, it supports multiple Indian languages, processes text, and maps it to ISL animations. Built with Django, it fosters inclusivity and bridges communication gaps.
-
-# Talking Fingers: A Multilingual Speech-to-Indian Sign Language Translator
+# A Multilingual Speech-to-Indian Sign Language Translator
 
 Talking Fingers is a web-based application designed to bridge the communication gap between the hearing and deaf communities. It converts spoken or typed text in multiple Indian languages into Indian Sign Language (ISL) animations, making communication more inclusive and accessible.
 
@@ -47,11 +43,11 @@ Follow these steps to set up the project on your local system:
 
 3. Activate the virtual environment:
 
-On Windows:
-venv\Scripts\activate
+    On Windows:
+    venv\Scripts\activate
 
-On macOS/Linux:
-source venv/bin/activate
+    On macOS/Linux:
+    source venv/bin/activate
 
 4. Install Project Dependencies: Install all required Python libraries:
    pip install -r requirements.txt
