@@ -61,3 +61,23 @@ Follow these steps to set up the project on your local system:
 
 7. Access the Application: Open your web browser and navigate to:
    http://127.0.0.1:8000
+
+
+## 📋 Usage
+- Select the preferred language from the dropdown menu.
+- Enter text or use the microphone to transcribe speech.
+- View the transcribed text and its English translation.
+- Watch the ISL animations corresponding to the processed text.
+
+## 🌟 Future Enhancements
+- Expand the ISL vocabulary to include more words and phrases.
+- Implement real-time video synthesis for dynamic animations.
+- Add support for additional Indian languages.
+- Optimize the translation process using machine learning.
+
+## 🤝 Contributors
+[Sneha S Ballari]
+[Anusha Shekar Gouda Malipatil] – [Your Roll Number]
+[Thaksha Prabhakar]
+[Sneha A]
+Guide: [Mr. Ramesh T], [Assistant Professor]
