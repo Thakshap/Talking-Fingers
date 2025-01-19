@@ -76,8 +76,8 @@ Follow these steps to set up the project on your local system:
 - Optimize the translation process using machine learning.
 
 ## 🤝 Contributors
-[Sneha S Ballari]
-[Anusha Shekar Gouda Malipatil] – [Your Roll Number]
-[Thaksha Prabhakar]
-[Sneha A]
-Guide: [Mr. Ramesh T], [Assistant Professor]
+- Sneha S Ballari
+- Anusha Shekar Gouda Malipatil
+- Thaksha Prabhakar
+- Sneha A
+- Guide: Mr. Ramesh T
